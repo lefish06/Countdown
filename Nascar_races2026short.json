@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Cook Out Clash",
+    "track": "Bowman Gray Stadium",
+    "date_et": "2026-02-01",
+    "time_et": "8:00pm",
+    "utc": 1769994000,
+    "points": false,
+    "note": "Exhibition"
+  },
+  {
+    "name": "Daytona 500 Duels",
+    "track": "Daytona International Speedway",
+    "date_et": "2026-02-12",
+    "time_et": "7:00pm",
+    "utc": 1770940800,
+    "points": false,
+    "note": "Qualifying races"
+  }
+]
