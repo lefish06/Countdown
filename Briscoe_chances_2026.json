@@ -1,0 +1,67 @@
+{
+  "driver": "Chase Briscoe",
+  "season": 2026,
+  "scale": [
+    "very_low",
+    "low",
+    "medium_low",
+    "medium",
+    "medium_high",
+    "high"
+  ],
+  "races": [
+    { "raceId": "2026-02-01-bowman-gray-stadium", "chance": "medium_low", "reason": "exhibition/format variance" },
+    { "raceId": "2026-02-12-daytona-international-speedway", "chance": "medium_low", "reason": "exhibition/format variance" },
+    { "raceId": "2026-02-15-daytona-international-speedway", "chance": "medium_low", "reason": "drafting; crash variance" },
+    { "raceId": "2026-02-22-echopark-speedway-atlanta", "chance": "medium_low", "reason": "drafting-style; high variance" },
+
+    { "raceId": "2026-03-01-circuit-of-the-americas", "chance": "high", "reason": "road/street strength" },
+    { "raceId": "2026-03-08-phoenix-raceway", "chance": "medium", "reason": "flat track; execution" },
+    { "raceId": "2026-03-15-las-vegas-motor-speedway", "chance": "medium_high", "reason": "intermediate strength" },
+    { "raceId": "2026-03-22-darlington-raceway", "chance": "medium", "reason": "abrasive; tough to control" },
+    { "raceId": "2026-03-29-martinsville-speedway", "chance": "medium_low", "reason": "short track; strategy/track position" },
+
+    { "raceId": "2026-04-12-bristol-motor-speedway", "chance": "medium", "reason": "short track; rhythm & traffic" },
+    { "raceId": "2026-04-19-kansas-speedway", "chance": "medium_high", "reason": "intermediate strength" },
+    { "raceId": "2026-04-26-talladega-superspeedway", "chance": "medium_low", "reason": "drafting; crash variance" },
+
+    { "raceId": "2026-05-03-texas-motor-speedway", "chance": "medium_high", "reason": "intermediate strength" },
+    { "raceId": "2026-05-10-watkins-glen-international", "chance": "high", "reason": "road/street strength" },
+
+    { "raceId": "2026-05-17-dover-motor-speedway", "chance": "medium", "reason": "concrete/high load; execution" },
+    { "raceId": "2026-05-17-dover-motor-speedway-2", "chance": "medium", "reason": "concrete/high load; execution" },
+
+    { "raceId": "2026-05-24-charlotte-motor-speedway", "chance": "medium_high", "reason": "intermediate strength" },
+    { "raceId": "2026-05-31-nashville-superspeedway", "chance": "medium", "reason": "concrete intermediate; execution" },
+
+    { "raceId": "2026-06-07-michigan-international-speedway", "chance": "medium_high", "reason": "high-speed intermediate" },
+    { "raceId": "2026-06-14-pocono-raceway", "chance": "medium", "reason": "unique track; strategy" },
+
+    { "raceId": "2026-06-21-naval-base-coronado-san-diego-street-course", "chance": "high", "reason": "street course fit" },
+    { "raceId": "2026-06-28-sonoma-raceway", "chance": "medium_high", "reason": "road course fit" },
+
+    { "raceId": "2026-07-05-chicagoland-speedway", "chance": "medium_high", "reason": "intermediate strength" },
+    { "raceId": "2026-07-12-echopark-speedway-atlanta", "chance": "medium_low", "reason": "drafting-style; high variance" },
+    { "raceId": "2026-07-19-north-wilkesboro-speedway", "chance": "medium_low", "reason": "short track; track position" },
+
+    { "raceId": "2026-07-26-indianapolis-motor-speedway", "chance": "medium", "reason": "track position + strategy" },
+    { "raceId": "2026-08-09-iowa-speedway", "chance": "medium_low", "reason": "short oval; tire management" },
+    { "raceId": "2026-08-15-richmond-raceway", "chance": "medium_low", "reason": "short track; long-run variance" },
+    { "raceId": "2026-08-23-new-hampshire-motor-speedway", "chance": "medium", "reason": "flat track; execution" },
+
+    { "raceId": "2026-08-29-daytona-international-speedway", "chance": "medium_low", "reason": "drafting; crash variance" },
+    { "raceId": "2026-09-06-darlington-raceway", "chance": "medium", "reason": "abrasive; tough to control" },
+    { "raceId": "2026-09-13-world-wide-technology-raceway", "chance": "medium_low", "reason": "flat; track position" },
+    { "raceId": "2026-09-19-bristol-motor-speedway", "chance": "medium", "reason": "short track; rhythm & traffic" },
+
+    { "raceId": "2026-09-27-kansas-speedway", "chance": "medium_high", "reason": "intermediate strength" },
+    { "raceId": "2026-10-04-las-vegas-motor-speedway", "chance": "medium_high", "reason": "intermediate strength" },
+    { "raceId": "2026-10-11-charlotte-motor-speedway-roval", "chance": "medium_high", "reason": "roval/road fit" },
+
+    { "raceId": "2026-10-18-phoenix-raceway", "chance": "medium", "reason": "flat track; execution" },
+    { "raceId": "2026-10-25-talladega-superspeedway", "chance": "medium_low", "reason": "drafting; crash variance" },
+    { "raceId": "2026-11-01-martinsville-speedway", "chance": "medium_low", "reason": "short track; track position" },
+
+    { "raceId": "2026-11-08-homestead-miami-speedway", "chance": "medium_high", "reason": "intermediate; tire wear style" }
+  ]
+}
