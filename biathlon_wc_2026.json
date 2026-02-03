@@ -1,0 +1,63 @@
+{
+  "sport": "biathlon",
+  "series": "BMW IBU World Cup",
+  "season": "2025/2026",
+  "scope": "events_in_calendar_year_2026",
+  "timezone": "CET",
+  "source_note": "Times in CET; changes possible.",
+  "events": [
+    { "date": "2026-01-08", "time": "14:10", "venue": "Oberhof", "country": "GER", "discipline": "Sprint", "category": "Men", "distance": "10 km" },
+    { "date": "2026-01-09", "time": "14:25", "venue": "Oberhof", "country": "GER", "discipline": "Sprint", "category": "Women", "distance": "7.5 km" },
+    { "date": "2026-01-10", "time": "12:00", "venue": "Oberhof", "country": "GER", "discipline": "Pursuit", "category": "Men", "distance": "12.5 km" },
+    { "date": "2026-01-10", "time": "14:25", "venue": "Oberhof", "country": "GER", "discipline": "Relay", "category": "Women", "distance": "4 x 6 km" },
+    { "date": "2026-01-11", "time": "11:00", "venue": "Oberhof", "country": "GER", "discipline": "Relay", "category": "Men", "distance": "4 x 7.5 km" },
+    { "date": "2026-01-11", "time": "14:30", "venue": "Oberhof", "country": "GER", "discipline": "Pursuit", "category": "Women", "distance": "10 km" },
+
+    { "date": "2026-01-14", "time": "14:30", "venue": "Ruhpolding", "country": "GER", "discipline": "Relay", "category": "Women", "distance": "4 x 6 km" },
+    { "date": "2026-01-15", "time": "14:30", "venue": "Ruhpolding", "country": "GER", "discipline": "Relay", "category": "Men", "distance": "4 x 7.5 km" },
+    { "date": "2026-01-16", "time": "14:30", "venue": "Ruhpolding", "country": "GER", "discipline": "Sprint", "category": "Women", "distance": "7.5 km" },
+    { "date": "2026-01-17", "time": "14:30", "venue": "Ruhpolding", "country": "GER", "discipline": "Sprint", "category": "Men", "distance": "10 km" },
+    { "date": "2026-01-18", "time": "12:30", "venue": "Ruhpolding", "country": "GER", "discipline": "Pursuit", "category": "Women", "distance": "10 km" },
+    { "date": "2026-01-18", "time": "15:00", "venue": "Ruhpolding", "country": "GER", "discipline": "Pursuit", "category": "Men", "distance": "12.5 km" },
+
+    { "date": "2026-01-22", "time": "18:15", "venue": "Nove Mesto", "country": "CZE", "discipline": "Individual (Short)", "category": "Men", "distance": "15 km" },
+    { "date": "2026-01-23", "time": "18:15", "venue": "Nove Mesto", "country": "CZE", "discipline": "Individual (Short)", "category": "Women", "distance": "12.5 km" },
+    { "date": "2026-01-24", "time": "13:15", "venue": "Nove Mesto", "country": "CZE", "discipline": "Single Mixed Relay", "category": "Mixed", "distance": "" },
+    { "date": "2026-01-24", "time": "15:15", "venue": "Nove Mesto", "country": "CZE", "discipline": "Team Mixed Relay", "category": "Mixed", "distance": "" },
+    { "date": "2026-01-25", "time": "15:15", "venue": "Nove Mesto", "country": "CZE", "discipline": "Mass Start", "category": "Men", "distance": "15 km" },
+    { "date": "2026-01-25", "time": "18:15", "venue": "Nove Mesto", "country": "CZE", "discipline": "Mass Start", "category": "Women", "distance": "12.5 km" },
+
+    { "date": "2026-02-08", "time": "14:05", "venue": "Antholz", "country": "ITA", "discipline": "Team Mixed Relay", "category": "Mixed", "distance": "" },
+    { "date": "2026-02-10", "time": "13:30", "venue": "Antholz", "country": "ITA", "discipline": "Individual", "category": "Men", "distance": "20 km" },
+    { "date": "2026-02-11", "time": "14:15", "venue": "Antholz", "country": "ITA", "discipline": "Individual", "category": "Women", "distance": "15 km" },
+    { "date": "2026-02-13", "time": "14:00", "venue": "Antholz", "country": "ITA", "discipline": "Sprint", "category": "Men", "distance": "10 km" },
+    { "date": "2026-02-14", "time": "14:00", "venue": "Antholz", "country": "ITA", "discipline": "Sprint", "category": "Women", "distance": "7.5 km" },
+    { "date": "2026-02-15", "time": "11:15", "venue": "Antholz", "country": "ITA", "discipline": "Pursuit", "category": "Men", "distance": "12.5 km" },
+    { "date": "2026-02-15", "time": "14:45", "venue": "Antholz", "country": "ITA", "discipline": "Pursuit", "category": "Women", "distance": "10 km" },
+    { "date": "2026-02-17", "time": "14:30", "venue": "Antholz", "country": "ITA", "discipline": "Relay", "category": "Men", "distance": "4 x 7.5 km" },
+    { "date": "2026-02-18", "time": "14:45", "venue": "Antholz", "country": "ITA", "discipline": "Relay", "category": "Women", "distance": "4 x 6 km" },
+    { "date": "2026-02-20", "time": "14:15", "venue": "Antholz", "country": "ITA", "discipline": "Mass Start", "category": "Men", "distance": "15 km" },
+    { "date": "2026-02-21", "time": "14:15", "venue": "Antholz", "country": "ITA", "discipline": "Mass Start", "category": "Women", "distance": "12.5 km" },
+
+    { "date": "2026-03-05", "time": "17:05", "venue": "Kontiolahti", "country": "FIN", "discipline": "Individual", "category": "Women", "distance": "15 km" },
+    { "date": "2026-03-06", "time": "17:10", "venue": "Kontiolahti", "country": "FIN", "discipline": "Individual", "category": "Men", "distance": "20 km" },
+    { "date": "2026-03-07", "time": "13:40", "venue": "Kontiolahti", "country": "FIN", "discipline": "Mass Start", "category": "Women", "distance": "12.5 km" },
+    { "date": "2026-03-07", "time": "15:40", "venue": "Kontiolahti", "country": "FIN", "discipline": "Relay", "category": "Men", "distance": "4 x 7.5 km" },
+    { "date": "2026-03-08", "time": "13:30", "venue": "Kontiolahti", "country": "FIN", "discipline": "Relay", "category": "Women", "distance": "4 x 6 km" },
+    { "date": "2026-03-08", "time": "16:55", "venue": "Kontiolahti", "country": "FIN", "discipline": "Mass Start", "category": "Men", "distance": "15 km" },
+
+    { "date": "2026-03-12", "time": "15:15", "venue": "Otepaa", "country": "EST", "discipline": "Sprint", "category": "Men", "distance": "10 km" },
+    { "date": "2026-03-13", "time": "15:15", "venue": "Otepaa", "country": "EST", "discipline": "Sprint", "category": "Women", "distance": "7.5 km" },
+    { "date": "2026-03-14", "time": "13:30", "venue": "Otepaa", "country": "EST", "discipline": "Pursuit", "category": "Men", "distance": "12.5 km" },
+    { "date": "2026-03-14", "time": "16:00", "venue": "Otepaa", "country": "EST", "discipline": "Pursuit", "category": "Women", "distance": "10 km" },
+    { "date": "2026-03-15", "time": "12:35", "venue": "Otepaa", "country": "EST", "discipline": "Single Mixed Relay", "category": "Mixed", "distance": "" },
+    { "date": "2026-03-15", "time": "14:40", "venue": "Otepaa", "country": "EST", "discipline": "Team Mixed Relay", "category": "Mixed", "distance": "" },
+
+    { "date": "2026-03-19", "time": "16:15", "venue": "Oslo", "country": "NOR", "discipline": "Sprint", "category": "Women", "distance": "7.5 km" },
+    { "date": "2026-03-20", "time": "16:15", "venue": "Oslo", "country": "NOR", "discipline": "Sprint", "category": "Men", "distance": "10 km" },
+    { "date": "2026-03-21", "time": "13:45", "venue": "Oslo", "country": "NOR", "discipline": "Pursuit", "category": "Women", "distance": "10 km" },
+    { "date": "2026-03-21", "time": "16:15", "venue": "Oslo", "country": "NOR", "discipline": "Pursuit", "category": "Men", "distance": "12.5 km" },
+    { "date": "2026-03-22", "time": "13:45", "venue": "Oslo", "country": "NOR", "discipline": "Mass Start", "category": "Women", "distance": "12.5 km" },
+    { "date": "2026-03-22", "time": "16:45", "venue": "Oslo", "country": "NOR", "discipline": "Mass Start", "category": "Men", "distance": "15 km" }
+  ]
+}
