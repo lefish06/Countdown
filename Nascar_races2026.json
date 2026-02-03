@@ -1,11 +1,11 @@
 [
   {
-    "raceId": "2026-02-01-bowman-gray-stadium",
+    "raceId": "2026-02-07-bowman-gray-stadium",
     "name": "Cook Out Clash",
     "track": "Bowman Gray Stadium",
     "note": "Exhibition",
-    "date_et": "2026-02-05 00:00",
-    "utc": 1770109801
+    "date_et": "2026-02-07 03:00",
+    "utc": 1770429600
   },
   {
     "raceId": "2026-02-15-daytona-international-speedway",
